@@ -1,0 +1,23 @@
+{
+  "name": "HCDC - TOUR",
+  "short_name": "HCDC Tour",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#256781",
+  "theme_color": "#256781",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://i.ibb.co/bgypg4gB/Quby-saranghae.gif",
+      "sizes": "192x192",
+      "type": "image/gif",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://i.ibb.co/bgypg4gB/Quby-saranghae.gif",
+      "sizes": "512x512",
+      "type": "image/gif",
+      "purpose": "any maskable"
+    }
+  ]
+}
